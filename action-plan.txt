@@ -4,3 +4,5 @@ Rencana Aksi:
 - kemudian latihan CSS
 - Sembari beberapa latihan Javascript
 - PHP Dasar
+- PHP MVC
+- PHP Frameworks
