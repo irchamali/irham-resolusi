@@ -1,2 +1,2 @@
-# manajemen-misi
-Misi-misi yang akan saya capai dalam tahun 2020 ini!
+# irham-resolusi
+Target yg akan dicapai dalam tahun 2020 ini!
