@@ -2,7 +2,8 @@ Rencana Aksi:
 - Membuat repo pada github terisi dengan beberapa project
 - Diawali dengan latihan HTML
 - kemudian latihan CSS
-- Sembari beberapa latihan Javascript
+- Javascript dasar
 - PHP Dasar
 - PHP MVC
 - PHP Frameworks
+- Fokus ke Codeigniter
