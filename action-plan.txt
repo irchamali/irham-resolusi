@@ -1,0 +1,6 @@
+Rencana Aksi:
+- Membuat repo pada github terisi dengan beberapa project
+- Diawali dengan latihan HTML
+- kemudian latihan CSS
+- Sembari beberapa latihan Javascript
+- PHP Dasar
